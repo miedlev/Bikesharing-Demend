@@ -10,7 +10,9 @@
 
 
 #### 3. Process Introduction :
-It is a competition that can be said to be Kaggle's introductory period and conducts a Python-based analysis. **My focusing was on** 
+It is a competition that can be said to be Kaggle's introductory period and conducts a Python-based analysis. 
+
+**My focusing was on** 
 1. Correlation coefficient Analysis 
 2. Feature engineering
 3. Hold-out Validation / Cross Validation strategy
