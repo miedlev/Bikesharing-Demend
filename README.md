@@ -21,7 +21,7 @@ It is a competition that can be said to be Kaggle's introductory period and cond
 6. hyperparameter Tuning 
 
 
-#### 4. Dependencies & Tech :
+**[Dependencies & Tech]:**
 * [IPython](http://ipython.org/)
 * [NumPy](http://www.numpy.org/)
 * [Pandas](http://pandas.pydata.org/)
