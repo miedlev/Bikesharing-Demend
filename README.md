@@ -2,7 +2,7 @@
 
 
 ### 1. My Conclusion Analysis Report - Jupyter Notebook
-* [Bike Sharing Demand Analysis](https://github.com/miedlev/Bikesharing-Demend/blob/main/Bikesharing.ipynb)
+* [Bike Sharing Demand Analysis - click reload if not operating](https://github.com/miedlev/Bikesharing-Demend/blob/main/Bikesharing.ipynb)
 
 
 ### 2. About Data :
